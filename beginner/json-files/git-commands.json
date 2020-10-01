@@ -68,10 +68,6 @@
     "description": "Enlists the stashes made with the recent one in the top."
   },
   {
-    "title": "git config",
-    "description": "This command sets the author name and email address respectively to be used with your commits."
-  },
-  {
     "title": "git push –all [variable name]",
     "description": "This command pushes all branches to your remote repository."
   },
@@ -86,6 +82,10 @@
   {
     "title": "git diff",
     "description": "This command shows how one branch (or even a specific revision) differs from another one."
+  },
+  {
+    "title": "git update-git-for-windows",
+    "description": "This command updates your git to the current version on windows."
   },
   {
     "title": "git --version",
@@ -254,14 +254,6 @@
   {
     "title": "git commit --amend",
     "description": "This command is a convenient way to modify the most recent commit. It can also be used to simply edit the previous commit message without changing its snapshot"
-  },
-  {
-    "title": "git config",
-    "description": "This command sets the author name and email address respectively to be used with your commits."
-  },
-  {
-    "title": "git commit --amend",
-    "description": "Change the message of the last commit."
   },
   {
     "title": "git please",
